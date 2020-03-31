@@ -1,0 +1,11 @@
+Master_Number,Product_Name,Bill_Amount,Bill_Date,Bill_Day,Recursive,Notes,Description,Split,Split_Amount,Master_Status
+3034138113,CDR BILLING,3000,,28,Yes,0303Notes,0303DESC,No,,Active
+3004300802,CMT,2000,,29,Yes,N/A,N/A,No,,Active
+3008449553,CDR BILLING,1,,28,Yes,Cmt desc,cmt notes,No,,Active
+3064653538,CMT,2,,29,Yes,N/A,N/A,No,,Active
+3008449553,CMT,211,,26,Yes,Cmt desc,cmt notes,No,,Active
+3076749161,POOL DATA,100,,28,Yes,Cmt desc,cmt notes,Yes,50,Active
+3214571413,POOL DATA,20,,28,Yes,sadkasld,asdasd,Yes,10,Inactive
+3034138113,POOL DATA,150,,28,Yes,otc,otc,Yes,50,Inactive
+3034138113,CMT,200,,29,Yes,otcotc,otcotc,Yes,50,Active
+3034138113,CDR BILLING,3000,,29,Yes,0303Notes,0303DESC,No,,Active
